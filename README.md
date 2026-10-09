@@ -16,6 +16,10 @@ I'm a first-year B.Tech student in Computer Science and Engineering, building st
 | [dsa-journey](https://github.com/Rithish-Murari-2008/dsa-journey) | Topic-wise DSA practice, problem logs, and solution reflections |
 | [mern-stack-journey](https://github.com/Rithish-Murari-2008/mern-stack-journey) | Web development roadmap, exercises, resources, and project ideas |
 
+## 🧩 Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/Rithish_Murari/) — My profile for coding practice and problem-solving.
+
 ## 🧭 How I Learn
 
 - Start with fundamentals before jumping into frameworks.
