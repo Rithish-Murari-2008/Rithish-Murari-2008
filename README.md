@@ -133,3 +133,12 @@ I'm a **first-year B.Tech student in Computer Science and Engineering**, buildin
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
+
+
+---
+
+## ☕ Java Learning Roadmap
+
+I'm also documenting my Java journey from beginner fundamentals to backend development, following a structured 30-day plan with daily practice and **question-only assessments**.
+
+- [JAVA-ROADMAP](https://github.com/Rithish-Murari-2008/JAVA-ROADMAP) — Java fundamentals, OOP, Collections, Streams, JDBC, Spring Boot, and topic-aligned assessments.
