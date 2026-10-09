@@ -1,27 +1,30 @@
-# Hi, I'm a First-Year CSE Student 👋
+# Hi, I'm Rithish 👋
 
-I'm a B.Tech student in Computer Science and Engineering, building strong foundations in programming, problem-solving, and software development.
+I'm a first-year B.Tech student in Computer Science and Engineering, building strong foundations in programming, problem-solving, and software development.
 
-## My Learning Journey
+## 🎯 My Learning Roadmap
 
-- 💻 C++ programming and problem-solving
-- 🧠 Data Structures and Algorithms (DSA)
-- 🌐 Full-stack development with the MERN stack
-- 🤖 Future goal: Artificial Intelligence and Machine Learning
+- 💻 **C++ and DSA:** Strengthening programming fundamentals and learning to solve problems step by step.
+- 🌐 **MERN stack:** Working toward full-stack development, starting with HTML, CSS, and JavaScript.
+- 🤖 **Future goal:** Explore Python, Artificial Intelligence, and Machine Learning after building a solid programming foundation.
 
-## My Learning Repositories
+## 📚 My Learning Repositories
 
-- [cpp-practice](https://github.com/Rithish-Murari-2008/cpp-practice) — C++ fundamentals and practice programs
-- [dsa-journey](https://github.com/Rithish-Murari-2008/dsa-journey) — Topic-wise DSA practice and revision
-- [mern-stack-journey](https://github.com/Rithish-Murari-2008/mern-stack-journey) — Web development learning path and exercises
-- [cs-notes](https://github.com/Rithish-Murari-2008/cs-notes) — Computer science and revision notes
+| Repository | What you'll find |
+|---|---|
+| [cpp-practice](https://github.com/Rithish-Murari-2008/cpp-practice) | C++ examples, exercises, and notes on language fundamentals |
+| [dsa-journey](https://github.com/Rithish-Murari-2008/dsa-journey) | Topic-wise DSA practice, problem logs, and solution reflections |
+| [mern-stack-journey](https://github.com/Rithish-Murari-2008/mern-stack-journey) | Web development roadmap, exercises, resources, and project ideas |
 
-## My Approach
+## 🧭 How I Learn
 
-I believe in learning the fundamentals, practicing consistently, building useful projects, documenting mistakes, and improving through feedback.
+- Start with fundamentals before jumping into frameworks.
+- Practice consistently and understand solutions instead of copying them.
+- Document mistakes, approaches, and lessons learned.
+- Build small projects and improve them over time.
 
-## Long-Term Goal
+## 🚀 Long-Term Goal
 
 Become a capable software developer who can solve problems, build useful full-stack applications, and eventually integrate AI into real-world products.
 
-Thanks for visiting my profile! 😊
+I'm documenting my journey one step at a time. Thanks for visiting!
